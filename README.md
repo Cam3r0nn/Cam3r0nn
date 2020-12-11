@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available **here on my GitHub**.
 
-- 💬 Ask me about **C#, PHP, Python and more**.
+- 💬 Feel free to ask me about **C#, PHP, Python and more**.
 
-- 📫 How to reach me **You can reach out to me on discord, Cam3r0n#0481**.
+- 📫 You can reach me **on discord, Cam3r0n#0481**.
 
 - ⚡ Fun fact **I'm only 14 years old**.
 
