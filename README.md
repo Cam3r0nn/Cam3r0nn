@@ -16,14 +16,6 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.cam3r0nn.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/lbel9azuupw3bnongl2vejbv6)
 
-### Connect with Me
-<p align="left">
-  <img src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="DISCORD" href="https://discord.gg/api" width="40" height="40" />
-  <img src="https://static.namemc.com/i/service/instagram.svg" alt="INSTAGRAM" href="https://www.instagram.com/_cam3r0nn/" width="40" height="40" />
-  <img src="https://static.namemc.com/i/service/twitter.svg" alt="TWITTER" href="https://twitter.com/_cam3r0nn" width="40" height="40" />
-</p>
-
-
 ### Languages and Tools
 <p align="left">
   <img src="https://www.flaticon.com/svg/static/icons/svg/2721/2721279.svg" alt="PHP" width="40" height="40" />
