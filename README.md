@@ -16,12 +16,7 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.cam3r0nn.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/lbel9azuupw3bnongl2vejbv6)
 
-### Languages and Tools
+### Languages
 <p align="left">
-  <img src="https://www.flaticon.com/svg/static/icons/svg/2721/2721279.svg" alt="PHP" width="40" height="40" />
-  <img src="https://www.flaticon.com/svg/static/icons/svg/2721/2721287.svg" alt="PYTHON" width="40" height="40" />
-  <img src="https://www.flaticon.com/svg/static/icons/svg/2721/2721297.svg" alt="SQL" width="40" height="40" />
-  <img src="https://www.flaticon.com/svg/static/icons/svg/2721/2721194.svg" alt="CSHARP" width="40" height="40" />
-  <img src="https://www.flaticon.com/svg/static/icons/svg/2721/2721267.svg" alt="HTML" width="40" height="40" />
-  <img src="https://www.flaticon.com/svg/static/icons/svg/2721/2721272.svg" alt="JAVASCRIPT" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/csharp/csharp-original.svg" alt="CSHARP" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/python/python-original.svg" alt="PYTHON" width="40" height="40" /> <img src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/mysql/mysql-plain.svg" alt="SQL" width="40" height="40" />
 </p>
