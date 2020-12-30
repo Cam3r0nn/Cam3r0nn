@@ -9,7 +9,7 @@
 
 - 💬 Feel free to ask me about **C#, PHP, Python and more**.
 
-- 📫 You can reach me **on discord, Cam3r0n#0481**.
+- 📫 You can reach me **on discord, c.#1337**.
 
 - ⚡ Fun fact **I'm only 14 years old**.
 
