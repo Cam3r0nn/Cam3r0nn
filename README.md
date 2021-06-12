@@ -9,7 +9,7 @@
 
 - 💬 Feel free to ask me about **C#, PHP, Python and more**.
 
-- 📫 You can reach me **on discord, Cam3r0n#0666**.
+- 📫 You can reach me **on discord, Cameron.#0666**.
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.cam3r0nn.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/lbel9azuupw3bnongl2vejbv6)
